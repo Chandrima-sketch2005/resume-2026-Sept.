@@ -1,7 +1,4 @@
-# resume-2026-Sept.
-My resume reflects the seriousness, and the whimsy that is missing from a candidate.
-
-Internship urgently needed, gathering funds for my dream plot, and to pay off my student loans.
+# Resume-2026-Sept.
 
 # Hardware & Embedded Systems Portfolio
 
