@@ -16,7 +16,7 @@ I am a pre-final year Electronic & Computer Engineering student at Trinity Colle
 * **FPGA Real-Time Signal Processing:** Implemented synthesizable multi-state FSMs in Verilog targeting the Xilinx Artix-7 (BASYS3) with static timing analysis to eliminate latency bottlenecks.
 * **Multi-Sensor Embedded Platform & Graphics Engine (MAC):** Designed an ATmega328P-based gaming console driven by multi-sensor inputs (ultrasonic, film pressure sensors, and potentiometers). Engineered a custom C++ pseudo-3D perspective rendering pipeline on a 128x64 OLED (4-wire SPI) using fixed-point math and zero dynamic memory allocation (~50 FPS).
 
----
+
 📫 **Contact & Links**
 * **Email:** [chandrima.b445@gmail.com](mailto:chandrima.b445@gmail.com)[cite: 1]
 * **LinkedIn:** [linkedin.com/in/chandrima-bhattacharyya4](https://linkedin.com/in/chandrima-bhattacharyya4)[cite: 1]
